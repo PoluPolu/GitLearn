@@ -1,4 +1,4 @@
 To jest
 Person: 1
 	Name: Pawel
-	Surn: Pol
+	Surn: Polanowski
